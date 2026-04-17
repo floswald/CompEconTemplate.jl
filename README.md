@@ -2,12 +2,14 @@
 
 This is the replication project template. 
 
+(you get a nice preview of this in VScode by executing command `Markdown: Open preview` - type this into the command 😉 )
+
 This page should contain concise information for how to
 
 1. install your julia package
 2. run the unit tests
 3. run the replication output (there needs to be a single entry point that runs everything, ideally called `run_all()`)
-4. gives instructions for how to compile and where to see the replication report. See [https://quarto.org](https://quarto.org) for instructions for how to use quarto.
+4. gives instructions for how to compile and where to see your replication [report](report.qmd). See [https://quarto.org](https://quarto.org) for instructions for how to use quarto.
 
 ## First steps
 
