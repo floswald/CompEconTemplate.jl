@@ -2,7 +2,14 @@
 
 This is the replication project template. 
 
-(you get a nice preview of this in VScode by executing command `Markdown: Open preview` - type this into the command 😉 )
+## Step Number 1
+
+* Click top right on `use this template`, then `create a new repository`.
+* Choose a suitable name for your replication project.
+* Clone your new repository to your computer.
+* Open this locally in VScode.
+
+(you get a nice preview of this document in VScode by executing command `Markdown: Open preview` - type this into the command 😉 )
 
 This page should contain concise information for how to
 
